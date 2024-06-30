@@ -11,9 +11,8 @@ Button1 - MIDICC69 Value:0;
 Button2- MIDICC69 Value:1; 
 Button3 - MIDICC69 Value:2; 
 Button4 - MIDICC52 Value:0-127; 
-Button5 - MIDICC53 Value:0-127; 
-Button6 - MIDICC16 Value:0-127. 
-The buttons 1, 2 and 3 controls the hx stomp snapshots. The buttons 4 and 5 simulate FS4 and FS5. The button 6 you can assign to an effect and use as a stomp.
+Button5 - MIDICC53 Value:0-127;  
+The buttons 1, 2 and 3 controls the hx stomp snapshots. The buttons 4 and 5 simulate FS4 and FS5.
 
 Page 2
 Button1 - MIDICC82 Value:0-127; 
