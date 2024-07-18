@@ -21,6 +21,9 @@ Button3 - MIDICC84 Value:0-127;
 Button4 - MIDICC85 Value:0-127; 
 Button5 - MIDICC86 Value:0-127.
 In this version you can use the page 1 as snapshots and assign the fs4 and fs5 to control preset down and preset up. On page 2, you can assign the effects blocks to each buttons and use as a stomp mode.
+
+VERSION 2.1
+A bug that caused the display to not work if the Arduino was left without power for hours has been fixed. The code, for the messages shown on the display, have been updated from string to char.
 ![IMG_0562](https://github.com/GabrielMirandaFigueiredo/Arduino-MIDI-Controller-6-footswitchs/assets/174227068/25f25815-e665-4705-a992-d5f77de4dd66)
 ![IMG_0556](https://github.com/GabrielMirandaFigueiredo/Arduino-MIDI-Controller-6-footswitchs/assets/174227068/d6535ae7-4707-4a1d-868b-f393bae023ca)
 ![IMG_0547](https://github.com/GabrielMirandaFigueiredo/Arduino-MIDI-Controller-6-footswitchs/assets/174227068/7ccceae0-3547-43ce-92f4-9839a68f4740)
