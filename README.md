@@ -27,3 +27,4 @@ In this version you can use the page 1 as snapshots and assign the fs4 and fs5 t
 ![WhatsApp Image 2024-06-29 at 21 36 36](https://github.com/GabrielMirandaFigueiredo/Arduino-MIDI-Controller-6-footswitchs/assets/174227068/6dcd9282-fbfe-49fe-a2bf-5e716088e672)
 ![WhatsApp Image 2024-06-29 at 21 36 36 (1)](https://github.com/GabrielMirandaFigueiredo/Arduino-MIDI-Controller-6-footswitchs/assets/174227068/ed175674-bd6c-4ddc-9098-25d5f7571f75)
 ![WhatsApp Image 2024-06-29 at 21 36 38 (1)](https://github.com/GabrielMirandaFigueiredo/Arduino-MIDI-Controller-6-footswitchs/assets/174227068/416a504c-92a3-4651-8b04-15f86d02cdf4)
+![image](https://github.com/user-attachments/assets/254efe5c-ea7f-4722-9eca-11557674c76c)
