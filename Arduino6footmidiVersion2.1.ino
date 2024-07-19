@@ -37,6 +37,23 @@ const int lcdPositions[6][2] = {
 // Estado da página atual
 int currentPage = 1; // Começa na página 1
 
+// String de teste para verificação do LCD
+const char testString[] = "versao 2.1";
+
+// Texto para os botões
+const char snp1[] = "SNP1";
+const char snp2[] = "SNP2";
+const char snp3[] = "SNP3";
+const char fs4[] = "FS4";
+const char fs5[] = "FS5";
+const char pag2[] = "PAG2";
+const char fx1[] = "FX1";
+const char fx2[] = "FX2";
+const char mod[] = "MOD";
+const char dly[] = "DLY";
+const char rev[] = "REV";
+const char pag1[] = "PAG1";
+
 // Cria a instância MIDI
 MIDI_CREATE_DEFAULT_INSTANCE();
 
@@ -44,9 +61,18 @@ void setup() {
   // Inicializa o MIDI
   MIDI.begin();
 
+  // Pequeno atraso antes de inicializar o LCD I2C
+  delay(1000);  // Adiciona um atraso de 1000ms
+
   // Inicializa o LCD I2C
   lcd.init();
   lcd.backlight();
+
+  // Mostra a string de teste por 1 segundo
+  lcd.clear();
+  lcd.setCursor(0, 1);
+  lcd.print(testString);
+  delay(3000);
 
   // Configura os pinos dos botões como entrada
   for (int i = 0; i < 6; i++) {
@@ -76,7 +102,7 @@ void loop() {
     handlePage2Buttons();
   }
 
-  delay(10); // Pequeno delay para debouncing
+  delay(50); // Pequeno delay para debouncing
 }
 
 void handlePage1Buttons() {
@@ -100,7 +126,7 @@ void handlePage2Buttons() {
 
     if (currentState && !lastButtonState[i]) {
       int ccNumber = ccNumbersPage2[i];
-      int value = toggleStatePage2[i] ? 127 : 0; // Define o valor MIDI baseado no estado de toggle
+      int value = toggleStatePage2[i] ? 0 : 127; // Define o valor MIDI baseado no estado de toggle
       MIDI.sendControlChange(ccNumber, value, 1); // Envia o valor MIDI
       toggleStatePage2[i] = !toggleStatePage2[i]; // Alterna o estado de toggle
     }
@@ -114,30 +140,30 @@ void updatePage() {
   if (currentPage == 1) {
     // Página 1 - exibe as informações padrão
     lcd.setCursor(lcdPositions[0][0], lcdPositions[0][1]);
-    lcd.print("SNP1");
+    lcd.print(snp1);
     lcd.setCursor(lcdPositions[1][0], lcdPositions[1][1]);
-    lcd.print("SNP2");
+    lcd.print(snp2);
     lcd.setCursor(lcdPositions[2][0], lcdPositions[2][1]);
-    lcd.print("SNP3");
+    lcd.print(snp3);
     lcd.setCursor(lcdPositions[3][0], lcdPositions[3][1]);
-    lcd.print("FS4");
+    lcd.print(fs4);
     lcd.setCursor(lcdPositions[4][0], lcdPositions[4][1]);
-    lcd.print("FS5");
+    lcd.print(fs5);
     lcd.setCursor(lcdPositions[5][0], lcdPositions[5][1]);
-    lcd.print("PAG2");
+    lcd.print(pag2);
   } else if (currentPage == 2) {
     // Página 2 - exibe as informações MIDI CC
     lcd.setCursor(lcdPositions[0][0], lcdPositions[0][1]);
-    lcd.print("FX1");
+    lcd.print(fx1);
     lcd.setCursor(lcdPositions[1][0], lcdPositions[1][1]);
-    lcd.print("FX2");
+    lcd.print(fx2);
     lcd.setCursor(lcdPositions[2][0], lcdPositions[2][1]);
-    lcd.print("MOD");
+    lcd.print(mod);
     lcd.setCursor(lcdPositions[3][0], lcdPositions[3][1]);
-    lcd.print("DLY");
+    lcd.print(dly);
     lcd.setCursor(lcdPositions[4][0], lcdPositions[4][1]);
-    lcd.print("REV");
+    lcd.print(rev);
     lcd.setCursor(lcdPositions[5][0], lcdPositions[5][1]);
-    lcd.print("PAG1");
+    lcd.print(pag1);
   }
 }
