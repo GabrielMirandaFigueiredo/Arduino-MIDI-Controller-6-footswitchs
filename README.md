@@ -94,7 +94,7 @@ Display: https://pt.aliexpress.com/item/1005006018109299.html?spm=a2g0o.order_li
 
 Arduino: https://pt.aliexpress.com/item/32647196840.html?spm=a2g0o.order_list.order_list_main.10.47aecaa4fplrT8&gatewayAdapt=glo2bra
 
-Box/caixa: https://pt.aliexpress.com/item/1005005612909691.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.2.16b9FQAQFQAQMJ&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=3c7cd42f-e045-445f-b999-fd52377ea08c&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:3c7cd42f-e045-445f-b999-fd52377ea08c,tpp_buckets:668%232846%238115%232000&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A
+Box/Caixa: https://pt.aliexpress.com/item/1005005612909691.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.2.16b9FQAQFQAQMJ&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=3c7cd42f-e045-445f-b999-fd52377ea08c&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:3c7cd42f-e045-445f-b999-fd52377ea08c,tpp_buckets:668%232846%238115%232000&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A
 
 Wires/Fios: https://pt.aliexpress.com/item/1005004167126040.html?spm=a2g0o.order_list.order_list_main.55.47aecaa4fplrT8&gatewayAdapt=glo2bra
 
