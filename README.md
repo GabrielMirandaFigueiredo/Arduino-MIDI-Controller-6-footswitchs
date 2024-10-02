@@ -1,5 +1,5 @@
 # Arduino-MIDI-Controller-6-footswitchs
-##English
+## English
 
 I built an Arduino MIDI controller with 6 footswitchs for my Line 6 HX Stomp. I used an arduino uno fot this project, but a smaller arduino is better for fitting into the enclosure. 
 
@@ -27,7 +27,7 @@ In this version you can use the page 1 as snapshots and assign the fs4 and fs5 t
 *VERSION 2.1*
 A bug that caused the display to not work if the Arduino was left without power for hours has been fixed. The code, for the messages shown on the display, have been updated from string to char.
 
-##Português
+## Português
 
 Construí um controlador Arduino MIDI com 6 footswitchs para minha Line 6 HX Stomp. Usei um arduino uno para este projeto, porém, troquei por um arduino nano posteriormente.
 
