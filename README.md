@@ -77,7 +77,7 @@ Os botões 1, 2 e 3 controlam os snapshots. Os botões 4 e 5 simulam FS4 e FS5.
 Página 2 
 
 * Botão1 - MIDICC82 Value: 0-127; 
-* Botão2- MIDICC83 Value: 0-127; 
+* Botão2 - MIDICC83 Value: 0-127; 
 * Botão3 - MIDICC84 Value: 0-127;
 * Botão4 - MIDICC85 Value: 0-127; 
 * Botão5 - MIDICC86 Value: 0-127.
