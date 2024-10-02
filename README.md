@@ -24,6 +24,23 @@ In this version you can use the page 1 as snapshots and assign the fs4 and fs5 t
 
 *VERSION 2.1*
 A bug that caused the display to not work if the Arduino was left without power for hours has been fixed. The code, for the messages shown on the display, have been updated from string to char.
+
+Peças/Parts:
+
+Display: https://pt.aliexpress.com/item/1005006018109299.html?spm=a2g0o.order_list.order_list_main.5.47aecaa4fplrT8&gatewayAdapt=glo2bra
+
+Arduino: https://pt.aliexpress.com/item/32647196840.html?spm=a2g0o.order_list.order_list_main.10.47aecaa4fplrT8&gatewayAdapt=glo2bra
+
+Box/caixa: https://pt.aliexpress.com/item/1005005612909691.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.2.16b9FQAQFQAQMJ&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=3c7cd42f-e045-445f-b999-fd52377ea08c&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:3c7cd42f-e045-445f-b999-fd52377ea08c,tpp_buckets:668%232846%238115%232000&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A
+
+Wires/Fios: https://pt.aliexpress.com/item/1005004167126040.html?spm=a2g0o.order_list.order_list_main.55.47aecaa4fplrT8&gatewayAdapt=glo2bra
+
+Jack MIDI: https://pt.aliexpress.com/item/4000583940302.html?spm=a2g0o.order_list.order_list_main.80.47aecaa4fplrT8&gatewayAdapt=glo2bra
+
+Footswitchs: https://pt.aliexpress.com/item/1005006163316744.html?spm=a2g0o.order_list.order_list_main.100.47aecaa4fplrT8&gatewayAdapt=glo2bra
+
+DC Jack: https://pt.aliexpress.com/item/1005003688672124.html?spm=a2g0o.productlist.main.1.54a25e19Bfviuw&algo_pvid=fb2543c1-4ce1-4a58-8e75-69ea1c39653e&utparam-url=scene%3Asearch%7Cquery_from%3A
+
 ![IMG_0562](https://github.com/GabrielMirandaFigueiredo/Arduino-MIDI-Controller-6-footswitchs/assets/174227068/25f25815-e665-4705-a992-d5f77de4dd66)
 ![IMG_0556](https://github.com/GabrielMirandaFigueiredo/Arduino-MIDI-Controller-6-footswitchs/assets/174227068/d6535ae7-4707-4a1d-868b-f393bae023ca)
 ![IMG_0547](https://github.com/GabrielMirandaFigueiredo/Arduino-MIDI-Controller-6-footswitchs/assets/174227068/7ccceae0-3547-43ce-92f4-9839a68f4740)
