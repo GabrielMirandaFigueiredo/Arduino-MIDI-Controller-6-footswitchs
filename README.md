@@ -9,6 +9,7 @@ The version 1 send the following MIDICC informations: Button1 - MIDICC69 Value:0
 
 ### *VERSION 2* (With two pages)
 The version 2 have two pages. The button 6 alternate between the 2 pages.
+
 Page 1
 
 * Button1 - MIDICC69 Value:0; 
@@ -45,6 +46,7 @@ A versão 1 envia as seguintes informações MIDICC: Button1 - MIDICC69 Valor:0;
 A versão 2 possui duas páginas.
 
 Página 1
+
 * Botão1 - MIDICC69 Value:0; 
 * Botão2- MIDICC69 Value:1; 
 * Botão3 - MIDICC69 Value:2; 
