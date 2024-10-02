@@ -106,10 +106,10 @@ DC Jack: https://pt.aliexpress.com/item/1005003688672124.html?spm=a2g0o.productl
 
 2 220 ohms Resistors/ 2 Resistores de 220 ohms: https://pt.aliexpress.com/item/1005007539959765.html?spm=a2g0o.productlist.main.3.3159qzdnqzdn4f&algo_pvid=8e4af7bb-433a-41fe-83dc-81d5db868a7f&utparam-url=scene%3Asearch%7Cquery_from%3A
 
+![image](https://github.com/user-attachments/assets/254efe5c-ea7f-4722-9eca-11557674c76c)
 ![IMG_0562](https://github.com/GabrielMirandaFigueiredo/Arduino-MIDI-Controller-6-footswitchs/assets/174227068/25f25815-e665-4705-a992-d5f77de4dd66)
 ![IMG_0556](https://github.com/GabrielMirandaFigueiredo/Arduino-MIDI-Controller-6-footswitchs/assets/174227068/d6535ae7-4707-4a1d-868b-f393bae023ca)
 ![IMG_0547](https://github.com/GabrielMirandaFigueiredo/Arduino-MIDI-Controller-6-footswitchs/assets/174227068/7ccceae0-3547-43ce-92f4-9839a68f4740)
 ![WhatsApp Image 2024-06-29 at 21 36 36](https://github.com/GabrielMirandaFigueiredo/Arduino-MIDI-Controller-6-footswitchs/assets/174227068/6dcd9282-fbfe-49fe-a2bf-5e716088e672)
 ![WhatsApp Image 2024-06-29 at 21 36 36 (1)](https://github.com/GabrielMirandaFigueiredo/Arduino-MIDI-Controller-6-footswitchs/assets/174227068/ed175674-bd6c-4ddc-9098-25d5f7571f75)
 ![WhatsApp Image 2024-06-29 at 21 36 38 (1)](https://github.com/GabrielMirandaFigueiredo/Arduino-MIDI-Controller-6-footswitchs/assets/174227068/416a504c-92a3-4651-8b04-15f86d02cdf4)
-![image](https://github.com/user-attachments/assets/254efe5c-ea7f-4722-9eca-11557674c76c)
