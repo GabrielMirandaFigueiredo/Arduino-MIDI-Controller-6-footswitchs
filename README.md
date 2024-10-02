@@ -32,7 +32,7 @@ The buttons 1, 2 and 3 controls the hx stomp snapshots. The buttons 4 and 5 simu
 Page 2
 
 * Button1 - MIDICC82 Valor: 0-127; 
-* Button2- MIDICC83 Valor: 0-127; 
+* Button2 - MIDICC83 Valor: 0-127; 
 * Button3 - MIDICC84 Valores: 0-127;
 * Button4 - MIDICC85 Valores: 0-127; 
 * Button5 - MIDICC86 Valores: 0-127.
@@ -67,7 +67,7 @@ A versão 2 possui duas páginas. O botão 6 alterna entre as 2 páginas.
 Página 1
 
 * Botão1 - MIDICC69 Value: 0; 
-* Botão2- MIDICC69 Value: 1; 
+* Botão2 - MIDICC69 Value: 1; 
 * Botão3 - MIDICC69 Value: 2; 
 * Botão4 - MIDICC52 Value: 0-127; 
 * Botão5 - MIDICC53 Value: 0-127;  
