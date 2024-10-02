@@ -5,7 +5,16 @@ I built an Arduino MIDI controller with 6 footswitchs for my Line 6 HX Stomp. I 
 
 ### *VERSION 1*
 
-The version 1 send the following MIDICC informations: Button1 - MIDICC69 Value:0; Button2- MIDICC69 Value:1; Button3 - MIDICC69 Value:2; Button4 - MIDICC52 Value:0-127; Button5 - MIDICC53 Value:0-127; button6 - MIDICC16 Value:0-127. The buttons 1, 2 and 3 controls the hx stomp snapshots. The buttons 4 and 5 simulate FS4 and FS5. The button 6 send the MIDICC16 information.
+The version 1 send the following MIDICC informations: 
+
+* Button1 - MIDICC69 Value:0; 
+* Button2 - MIDICC69 Value:1; 
+* Button3 - MIDICC69 Value:2; 
+* Button4 - MIDICC52 Value:0-127; 
+* Button5 - MIDICC53 Value:0-127; 
+* Button6 - MIDICC16 Value:0-127. 
+
+The buttons 1, 2 and 3 controls the hx stomp snapshots. The buttons 4 and 5 simulate FS4 and FS5. The button 6 send the MIDICC16 information.
 
 ### *VERSION 2* (With two pages)
 The version 2 have two pages. The button 6 alternate between the 2 pages.
@@ -13,7 +22,7 @@ The version 2 have two pages. The button 6 alternate between the 2 pages.
 Page 1
 
 * Button1 - MIDICC69 Value:0; 
-* Button2- MIDICC69 Value:1; 
+* Button2 - MIDICC69 Value:1; 
 * Button3 - MIDICC69 Value:2; 
 * Button4 - MIDICC52 Value:0-127; 
 * Button5 - MIDICC53 Value:0-127;  
@@ -39,11 +48,21 @@ A bug that caused the display to not work if the Arduino was left without power 
 Construí um controlador Arduino MIDI com 6 footswitchs para minha Line 6 HX Stomp. Usei um arduino uno para este projeto, porém, troquei por um arduino nano posteriormente.
 
 ### *VERSÃO 1* 
-A versão 1 envia as seguintes informações MIDICC: Button1 - MIDICC69 Valor:0; Botão2- MIDICC69 Valor:1; Botão3 - MIDICC69 Valor:2; Botão4 - MIDICC52 Valores:0-127; Botão5 - MIDICC53 Valores:0-127; botão6 - MIDICC16 Valores: 0-127. Os botões 1, 2 e 3 controlam os snapshots da hx stomp. Os botões 4 e 5 simulam FS4 e FS5. O botão 6 envia a informação MIDICC16.
+
+A versão 1 envia as seguintes informações MIDICC: 
+
+* Botão1 - MIDICC69 Valor:0; 
+* Botão2 - MIDICC69 Valor:1; 
+* Botão3 - MIDICC69 Valor:2; 
+* Botão4 - MIDICC52 Valores:0-127; 
+* Botão5 - MIDICC53 Valores:0-127; 
+* Botão6 - MIDICC16 Valores: 0-127. 
+
+Os botões 1, 2 e 3 controlam os snapshots da hx stomp. Os botões 4 e 5 simulam FS4 e FS5. O botão 6 envia a informação MIDICC16.
 
 ### *VERSÃO 2* (Com duas páginas) 
 
-A versão 2 possui duas páginas.
+A versão 2 possui duas páginas. O botão 6 alterna entre as 2 páginas.
 
 Página 1
 
