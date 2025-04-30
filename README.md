@@ -90,21 +90,21 @@ Foi corrigido um bug que fazia com que o display não funcionasse se o Arduino f
 
 ## Peças/Parts:
 
-Display: https://pt.aliexpress.com/item/1005006018109299.html?spm=a2g0o.order_list.order_list_main.5.47aecaa4fplrT8&gatewayAdapt=glo2bra
+Display: https://s.click.aliexpress.com/e/_ooECoYV
 
-Arduino: https://pt.aliexpress.com/item/32647196840.html?spm=a2g0o.order_list.order_list_main.10.47aecaa4fplrT8&gatewayAdapt=glo2bra
+Arduino: https://s.click.aliexpress.com/e/_oooeiBL
 
-Box/Caixa: https://pt.aliexpress.com/item/1005005612909691.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.2.16b9FQAQFQAQMJ&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=3c7cd42f-e045-445f-b999-fd52377ea08c&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:3c7cd42f-e045-445f-b999-fd52377ea08c,tpp_buckets:668%232846%238115%232000&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A
+Box/Caixa: https://s.click.aliexpress.com/e/_olcOq85
 
-Wires/Fios: https://pt.aliexpress.com/item/1005004167126040.html?spm=a2g0o.order_list.order_list_main.55.47aecaa4fplrT8&gatewayAdapt=glo2bra
+Wires/Fios: https://s.click.aliexpress.com/e/_oDhHG1f
 
-Jack MIDI: https://pt.aliexpress.com/item/4000583940302.html?spm=a2g0o.order_list.order_list_main.80.47aecaa4fplrT8&gatewayAdapt=glo2bra
+Jack MIDI: https://s.click.aliexpress.com/e/_oBvekUl
 
-Footswitchs: https://pt.aliexpress.com/item/1005006163316744.html?spm=a2g0o.order_list.order_list_main.100.47aecaa4fplrT8&gatewayAdapt=glo2bra
+Footswitchs: https://s.click.aliexpress.com/e/_oBS3L1b
 
-DC Jack: https://pt.aliexpress.com/item/1005003688672124.html?spm=a2g0o.productlist.main.1.54a25e19Bfviuw&algo_pvid=fb2543c1-4ce1-4a58-8e75-69ea1c39653e&utparam-url=scene%3Asearch%7Cquery_from%3A
+DC Jack: https://s.click.aliexpress.com/e/_oDkJQrb
 
-2 220 ohms Resistors/ 2 Resistores de 220 ohms: https://pt.aliexpress.com/item/1005007539959765.html?spm=a2g0o.productlist.main.3.3159qzdnqzdn4f&algo_pvid=8e4af7bb-433a-41fe-83dc-81d5db868a7f&utparam-url=scene%3Asearch%7Cquery_from%3A
+2 220 ohms Resistors/ 2 Resistores de 220 ohms: https://s.click.aliexpress.com/e/_onuUPhF
 
 ![image](https://github.com/user-attachments/assets/254efe5c-ea7f-4722-9eca-11557674c76c)
 ![IMG_0562](https://github.com/GabrielMirandaFigueiredo/Arduino-MIDI-Controller-6-footswitchs/assets/174227068/25f25815-e665-4705-a992-d5f77de4dd66)
