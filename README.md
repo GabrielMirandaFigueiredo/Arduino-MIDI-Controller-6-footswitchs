@@ -90,7 +90,7 @@ Foi corrigido um bug que fazia com que o display não funcionasse se o Arduino f
 
 ## Peças/Parts:
 
-Display: https://s.click.aliexpress.com/e/_ooECoYV
+Display: https://s.click.aliexpress.com/e/_c3aFDI6F
 
 Arduino: https://s.click.aliexpress.com/e/_oooeiBL
 
@@ -104,7 +104,7 @@ Footswitchs: https://s.click.aliexpress.com/e/_oBS3L1b
 
 DC Jack: https://s.click.aliexpress.com/e/_oDkJQrb
 
-2 220 ohms Resistors/ 2 Resistores de 220 ohms: https://s.click.aliexpress.com/e/_onuUPhF
+2 220 ohms Resistors/ 2 Resistores de 220 ohms: https://s.click.aliexpress.com/e/_c32AcLnZ
 
 ![image](https://github.com/user-attachments/assets/254efe5c-ea7f-4722-9eca-11557674c76c)
 ![IMG_0562](https://github.com/GabrielMirandaFigueiredo/Arduino-MIDI-Controller-6-footswitchs/assets/174227068/25f25815-e665-4705-a992-d5f77de4dd66)
